@@ -34,7 +34,7 @@ The model learns not just broad categories (like "bird" or "cat") but specific s
 | Recall    | 90.1% |
 | F1-Score  | 89.3% |
 
-🙌 Contributions
+## 🙌 Contributions
 Suggestions, pull requests, and forks are most welcome — especially if you’re passionate about AI for nature, conservation, or image classification.
 
 🧑‍💻 Author
