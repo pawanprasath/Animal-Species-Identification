@@ -25,7 +25,7 @@ The model learns not just broad categories (like "bird" or "cat") but specific s
 - Matplotlib & Seaborn 📈
 - Scikit-learn 🧪
 
-🧪 Results
+## 🧪 Results
 ✅ Final Evaluation Metrics
 | Metric    | Value |
 | --------- | ----- |
